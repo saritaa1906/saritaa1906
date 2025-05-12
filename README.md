@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Análise e Desenvolvimento de Sistemas**
 
-- 📝 Fiz parte de um projeto de um app para solucionar porblemas de saúde nas ruas em cidades grandes [STREET HELTH](https://docs.google.com/document/d/14XKmpgzWoY4lZFlWkyX6_27rgOmXwGH2qyi2ndEfgbY/edit?usp=sharing)
+- 📝 Fiz parte de um projeto de um app para solucionar problemas de saúde nas ruas em cidades grandes [STREET HELTH](https://docs.google.com/document/d/14XKmpgzWoY4lZFlWkyX6_27rgOmXwGH2qyi2ndEfgbY/edit?usp=sharing)
 
 - 👯 Atualmente trabalho como recepcionista [RECEPCIONISTA NA CIRQUSACROESPORTES](https://www.cirqusacroesportes.com.br/)
 
@@ -15,7 +15,7 @@
 
 - 💬 Me pergunte sobre **SQL, Excel e Python**
 
-- 📫 Você me acha attavés do e-mail **sarajobs19@gmail.com**
+- 📫 Você me acha através do e-mail **sarajobs19@gmail.com**
 
 - 📄 Aqui estão minhas experinências e minhas habilidades realizadas [https://www.linkedin.com/in/sara-martins-877344232/](https://www.linkedin.com/in/sara-martins-877344232/)
 
