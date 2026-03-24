@@ -16,21 +16,6 @@
 
 ---
 
-### 📌 Projetos
-
-- 🔭 **FOOD MARKETLIST**  
-  Aplicativo de lista de compras com foco em praticidade e organização  
-  📄 [Acessar projeto](https://docs.google.com/document/d/1KIsqb9__VpeX4nr41HIRGFcZBUbHSovoi4f5jaiDwCY/edit?usp=sharing)
-
-- 📝 **STREET HEALTH**  
-  Aplicativo voltado para solução de problemas de saúde pública em ambientes urbanos  
-  📄 [Acessar projeto](https://docs.google.com/document/d/14XKmpgzWoY4lZFlWkyX6_27rgOmXwGH2qyi2ndEfgbY/edit?usp=sharing)
-
-- 👨‍💻 **Portfólio e Apresentação Profissional**  
-  📊 [Visualizar apresentação](https://docs.google.com/presentation/d/1k8glNN1fimZLLuVX0zmrftTiFTCkewC4J8Sm_A2N54M/edit?usp=sharing)
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left"> 
