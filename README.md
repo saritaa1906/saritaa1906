@@ -43,10 +43,3 @@
 - 💼 LinkedIn: https://linkedin.com/in/sararnartins
 - 📸 Instagram: https://instagram.com/sarita_1906
 
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saritaa1906&show_icons=true&locale=pt-br" alt="saritaa1906" />
-</p>
