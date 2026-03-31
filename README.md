@@ -42,5 +42,4 @@
 
 - ✉️ Email: **sarajobs19@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/sararnartins
-- 📸 Instagram: https://instagram.com/sarita_1906
 
