@@ -8,11 +8,12 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💼 Experiência profissional como **Recepcionista**, desenvolvendo habilidades de comunicação, organização e atendimento
-- 💻 Interesse nas áreas de **Desenvolvimento, Banco de Dados e Análise de Dados**
-- 🌱 Atualmente aprofundando conhecimentos em **SQL, Python e Excel**
-- ⚡ Perfil proativo, comunicativo e com facilidade de aprendizado
+-  Estudante de **Análise e Desenvolvimento de Sistemas**
+-  Experiência profissional como **Recepcionista**, desenvolvendo habilidades de comunicação, organização e atendimento
+-  Atualmente atuando como Estagiária de TI na Grupo Império
+-  Interesse nas áreas de **Desenvolvimento, Banco de Dados e Análise de Dados**
+-  Atualmente aprofundando conhecimentos em **SQL, Python e Excel**
+-  Perfil proativo, comunicativo e com facilidade de aprendizado
 
 ---
 
